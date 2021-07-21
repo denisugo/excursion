@@ -31,3 +31,8 @@ a {
 }
 
 /* footer */
+.copiright {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
+}
